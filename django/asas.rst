@@ -12,4 +12,6 @@ Projek Baru
 ===========
 ::
 
-    $ django-admin.py startproject
+    $ django-admin.py startproject blog
+    $ ls blog
+    manage.py settings.py
