@@ -11,4 +11,5 @@ Install
 Projek Baru
 ===========
 ::
+
     $ django-admin.py startproject
