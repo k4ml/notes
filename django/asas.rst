@@ -15,6 +15,13 @@ Projek Baru
     $ django-admin.py startproject blog
     $ ls blog
     __init__.py  manage.py  settings.py  urls.py
+
+Development server
+==================
+Development server membolehkan anda memulakan proses pembangunan mengunakan
+django dengan pantas. Walau bagaimana pun ia tidak sesuai untuk digunakan bagi
+aplikasi live::
+
     $ cd blog
     $ python manage.py runserver
     Validating models...
